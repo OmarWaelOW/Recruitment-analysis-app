@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.streamlit/auth.toml
+egy_crete.db
